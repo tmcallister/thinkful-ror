@@ -1,3 +1,3 @@
 thinkful-ror
 ============
-Read me...
+Course notes
